@@ -4,6 +4,9 @@
 
 Der Baustein liest einen myStrom Switch aus, und gibt Status, Version, Power (W), Temperatur und SSID aus.
 
+Spenden sind gerne [hier](https://www.paypal.com/paypalme/reinhardsocha) willkommen
+
+
 ## Eingänge
 
 | Nr. | Name         | Initialisierung | Beschreibung                                                                                            |
